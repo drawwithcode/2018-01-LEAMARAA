@@ -16,7 +16,7 @@ function draw() {
   if (x<200){x+1} else {x=100};
 
 //Head
-	//part light blue
+	//part light blue prova
 	fill(162,217,224);
 	noStroke()
 	ellipse(250,192.41,121.619)
